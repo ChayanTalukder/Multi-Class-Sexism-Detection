@@ -1,1 +1,1 @@
-# A1: Here, we try to identify and categorize sexism in user-generated content using the EXIST 2023 dataset. The goal is to move beyond binary classification to identify specific types of sexist behavior (Direct, Judgemental, Reported) under severe class imbalance and linguistic distinctions.
+# A1: The goal is to identify and categorize sexism (Direct, Judgemental, Reported) in tweets (severe class imbalance and linguistic distinctions) using the EXIST 2023 dataset.
