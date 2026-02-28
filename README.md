@@ -1,2 +1,1 @@
-# Multi-Class-Sexism-Detection
-Project work on Natural Language Processing (NLP). A1: categorize sexist messages according to the intention into direct, reported or judgemental. A2: label an i/p sentence as not-sexist or one of these: threats, derogation, animosity, prejudices discussion.
+# A1: This project addresses the challenge of identifying and categorizing sexism in user-generated content using the EXIST (Sexism Identification in Social Networks) dataset. The goal is to move beyond binary classification to identify specific types of sexist behavior (Direct, Judgemental, Reported) in a highly imbalanced data environment.
